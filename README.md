@@ -109,7 +109,8 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
-<img width="1241" height="1600" alt="image" src="https://github.com/user-attachments/assets/4be69cc5-00a4-4161-9e48-8412e871b360" />
+![WhatsApp Image 2026-03-20 at 10 51 44 AM](https://github.com/user-attachments/assets/3d7afdaf-c469-403b-b0c3-da18968398a0)
+
 CASE 2: LED OFF
 
 ---
